@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I’m niv levy<br>A passionate software developer and cybersecurity learner.<br><br>- 🔭 I’m currently working on trivia network chat<br><br>- 🌱 I’m currently learning websec ,cybersecurity,assembly<br><br>- 📫 How to reach me nivlevy239@gmail.com<br><br>- ⚡ Fun fact : I love surfing as much as I love coding (so, it’s a lot)!<br><br>
+Hi 👋, I’m niv levy<br>A passionate software developer and cybersecurity learner.<br><br>- 🔭 I’m currently working on AI-Powered phishing detection extension that integrate to ublock <br><br>- 🌱 I’m currently learning websec, ethical hacking <br><br>- 📫 How to reach me nivlevy239@gmail.com<br><br>- ⚡ Fun fact : I love surfing as much as I love coding (so, it’s a lot)!<br><br>
 
 
 ## 🌐 Socials:
