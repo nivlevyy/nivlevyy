@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I’m niv levy<br>A passionate software developer and cybersecurity learner.<br><br>- 🔭 I’m currently working on an AI-powered phishing detection browser extension integrated into uBlock Origin <br><br>- 🌱 I’m currently learning Cybersecurity Professional Certificate  <br><br>- 📫 How to reach me nivlevy239@gmail.com<br><br>- ⚡ Fun fact : I love surfing as much as I love coding (so, it’s a lot)!<br><br>
+Hi 👋, I’m niv levy<br>A passionate software developer and cybersecurity learner.<br><br>- 🔭 I’m currently working on an AI-powered phishing detection browser extension integrated into uBlock Origin <br><br>- 🌱 I’m currently learning Google Cybersecurity Professional Certificate  <br><br>- 📫 How to reach me nivlevy239@gmail.com<br><br>- ⚡ Fun fact : I love surfing as much as I love coding (so, it’s a lot)!<br><br>
 
 
 ## 🌐 Socials:
